@@ -9,8 +9,9 @@ The purpose of this project is to make a weather application using the https://a
   - User can display list of searched city weather data card like on gif.
   - If new searched city is in the weather data list, app can display a warning text to user on page.
 
+![wapp](https://user-images.githubusercontent.com/93790865/166176321-7be70db8-da7f-4ae1-a1e0-0dee60f78dfa.gif)
 
 
 
 
-![weather app](https://user-images.githubusercontent.com/93790865/166176121-2f818447-2021-4b94-8229-f360ab52587f.gif)
+
